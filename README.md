@@ -1,8 +1,7 @@
-### Interactive-AI-Assistant-for-Knowledge-Documents-
+## Tech -
+Java, LangChain4J, OpenAI API, Cassandra
 
-## Tech - Java, LangChain4J, OpenAI API, Cassandra
-
-
+# Interactive-AI-Assistant-for-Knowledge-Documents-
 This project builds a PDF chat application that allows users to ask questions about a PDF document in a conversational way. Here are the technologies used:
 
 Programming languages: Java
