@@ -1,4 +1,4 @@
-package com.programming.techie.pdfassistant;
+package com.pdfassistant;
 
 import dev.langchain4j.chain.ConversationalRetrievalChain;
 import lombok.RequiredArgsConstructor;
