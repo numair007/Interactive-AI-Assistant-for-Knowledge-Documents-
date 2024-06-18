@@ -3,10 +3,10 @@
 # Interactive-AI-Assistant-for-Knowledge-Documents-
 This project builds a PDF chat application that allows users to ask questions about a PDF document in a conversational way. Here are the technologies used:
 
-Programming languages: Java <br />
-Frameworks: Spring Boot<br />
-Libraries: Langchain4J<br />
-Databases: Astra DB (vector database)<br />
+``Programming languages: Java <br />
+``Frameworks: Spring Boot<br />
+``Libraries: Langchain4J<br />
+``Databases: Astra DB (vector database)<br />
 
 #
 The application first ingests the PDF document and splits it into text segments. <br /> It then creates embeddings, which are numerical representations of the text segments, using a large language model. These embeddings are stored in a vector database called Astra DB.
